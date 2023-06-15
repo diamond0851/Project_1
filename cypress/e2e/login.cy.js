@@ -1,4 +1,4 @@
-import {login,cart,search,ContactUs} from "../fixtures/selectors.js";
+import {login,cart,search} from "../fixtures/selectors.js";
 
 describe('Testing Login', () => {
   beforeEach ( () => {
